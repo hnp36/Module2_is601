@@ -1,8 +1,4 @@
-# Project Install Instuctions
-
-## install
-1. clone
-2. pip install -r requirements.txt
+# HomeWork_2
 
 ## Testing 
 
